@@ -2,6 +2,10 @@
 
 有人反馈百度云下载太慢，所以我部分书籍提供了蓝奏云下载，大家如果觉得有帮助，可以偷偷收藏起来哈，不过蓝奏云对文件的大小有限制，我开了 VIP，但还是只能上传 100 多MB 的文件。
 
+### 解压密码 di201805
+
+
+
 > **重要说明**：**如果目录无法跳转的话，直接拉下去就可以了**，这些书籍都是在同一个页面的，我只是方便大家找到对应的，弄了一个**页内目录**，不过有部分读者反馈他跳转不了（手机是绝对跳转不了的了）。
 
 
@@ -274,5 +278,4 @@
 书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1326194964@qq.com
 
 [![Page Views Count](https://badges.toozhao.com/badges/01EMGX8NNAHHYKVNQAYHSE2G3K/green.svg)](https://badges.toozhao.com/badges/01EMGX8NNAHHYKVNQAYHSE2G3K/green.svg "Get your own page views count badge on badges.toozhao.com")
-
 
